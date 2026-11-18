@@ -1,0 +1,21 @@
+# Section owners are requested automatically as PR reviewers.
+# Replace each <placeholder> with the person's real GitHub username, then uncomment the line.
+#
+# *                                    @<saif-wael>
+# /docs/00-project-management/         @<saif-wael>
+# /docs/02-research/                   @<marawan-ahmed>
+# /docs/04-security/                   @<marawan-ahmed> @<saif-wael>
+# /docs/05-components/api-gateway/     @<mohamed-mohsen>
+# /docs/05-components/ai-copilot/      @<mohamed-mohsen>
+# /docs/05-components/ov-agent/        @<marawan-ahmed>
+# /docs/05-components/ca-engine/       @<mariam-hazem>
+# /docs/05-components/crl-generator/   @<mariam-hazem>
+# /docs/05-components/ra-service/      @<mariam-ramy>
+# /docs/05-components/ocsp-responder/  @<mariam-ramy>
+# /docs/05-components/ai-support-bot/  @<mariam-ramy>
+# /docs/05-components/admin-portal/    @<seif-aly>
+# /docs/06-database/                   @<andrew-rami>
+# /docs/07-infrastructure/             @<andrew-rami> @<saif-wael>
+# /docs/09-testing/                    @<mariam-hazem>
+# /docs/10-user-guides/                @<seif-aly>
+# /.github/                            @<andrew-rami>

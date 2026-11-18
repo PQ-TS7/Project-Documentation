@@ -1,0 +1,32 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Office lock / temp files
+~$*
+*.tmp
+.~lock.*#
+
+# draw.io backups
+*.bkp
+*.dtmp
+
+# Editors
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.swp
+
+# Generated site output (if a static site is added later)
+site/
+_site/
+node_modules/
+
+# Secrets / key material - must never be committed
+*.key
+*.p12
+*.pfx
+*.env
+.env*
+**/softhsm*/tokens/
