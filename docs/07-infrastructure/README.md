@@ -3,7 +3,7 @@
 **Leads:** Andrew Rami (Kubernetes, containers, CI/CD), Saif Wael (network, TLS) · **Branch:** `docs/infrastructure`
 
 | Folder | Contents |
-|---|---|
+| --- | --- |
 | `kubernetes/` | Cluster layout, namespaces, network policies, secrets handling, admin access |
 | `containers/` | Image per component, base / OQS image, build conventions |
 | `ci-cd/` | GitHub Actions pipelines: lint, build, test, deploy |

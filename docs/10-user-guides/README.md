@@ -3,7 +3,7 @@
 **Lead:** Seif Aly · **Branch:** `docs/user-guides`
 
 | Folder | Contents |
-|---|---|
+| --- | --- |
 | `admin/` | Admin portal: CA operator, super admin, auditor |
 | `ra-officer/` | OV review queue, domain validation follow-up |
 | `customer/` | Customer portal: applying, OV documents, domain challenges, downloading certificates |

@@ -9,7 +9,7 @@ and two local-LLM assistants). Graduation project — Gigabyte Bridge program.
 ## Repository layout
 
 | Folder | What goes there | Lead |
-|---|---|---|
+| --- | --- | --- |
 | [`docs/00-project-management`](docs/00-project-management/) | Proposal, roles & task assignment, schedule, meeting notes, progress / Q&A reports | Saif Wael |
 | [`docs/01-requirements`](docs/01-requirements/) | SRS, functional / non-functional requirements, traceability | Team |
 | [`docs/02-research`](docs/02-research/) | PQC algorithm studies, comparative analyses, libraries & frameworks | Marawan Ahmed |

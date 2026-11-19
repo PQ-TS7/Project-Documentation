@@ -3,7 +3,7 @@
 **Lead:** Saif Wael · **Branch:** `docs/project-management`
 
 | Folder | Contents |
-|---|---|
+| --- | --- |
 | `proposal/` | Project proposal versions (current baseline: V0.4) |
 | `roles-and-tasks/` | Role assignment (Optional Roles Assign), task breakdown |
 | `schedule/` | Milestones, timeline, Gantt |

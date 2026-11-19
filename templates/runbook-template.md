@@ -1,7 +1,7 @@
 # Runbook: Procedure name
 
 | Field | Value |
-|---|---|
+| --- | --- |
 | Owner | Name |
 | Last tested | YYYY-MM-DD |
 | Environment | Kubernetes namespace / host |

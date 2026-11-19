@@ -1,7 +1,7 @@
 # Glossary
 
 | Term | Meaning |
-|---|---|
+| --- | --- |
 | ADR | Architecture Decision Record |
 | CA | Certificate Authority — issues and signs certificates |
 | CRL | Certificate Revocation List (RFC 5280 v2), published periodically |

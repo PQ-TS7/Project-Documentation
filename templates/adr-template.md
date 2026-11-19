@@ -1,7 +1,7 @@
 # ADR-NNNN: Short decision title
 
 | Field | Value |
-|---|---|
+| --- | --- |
 | Status | Proposed / Accepted / Deprecated / Superseded by ADR-XXXX |
 | Date | YYYY-MM-DD |
 | Deciders | Names |

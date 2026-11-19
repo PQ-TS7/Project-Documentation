@@ -3,7 +3,7 @@
 **Leads:** Marawan Ahmed (keys, Root CA), Saif Wael (hardening, network) · **Branch:** `docs/security`
 
 | Folder | Contents |
-|---|---|
+| --- | --- |
 | `threat-model/` | Assets, trust boundaries, threats and mitigations |
 | `key-management/` | Root CA offline ceremony runbook, intermediate key in SoftHSM2 / PKCS#11, key lifecycle |
 | `certificate-policy/` | Certificate Policy / CPS, certificate profiles, OIDs |

@@ -1,7 +1,7 @@
 # Component: service-name
 
 | Field | Value |
-|---|---|
+| --- | --- |
 | Owner | Name |
 | Status | Draft / In review / Approved |
 | Version | v0.1 |

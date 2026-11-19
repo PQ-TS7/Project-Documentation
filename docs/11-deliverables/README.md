@@ -5,7 +5,7 @@
 Final, submitted versions only. Drafts live in their section folders.
 
 | Folder | Contents |
-|---|---|
+| --- | --- |
 | `reports/` | Graduation project reports (P1, P2) |
 | `presentations/` | Slide decks for reviews and the final defense |
 | `posters-and-demos/` | Posters, demo scripts, recordings |

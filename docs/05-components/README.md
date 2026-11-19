@@ -5,7 +5,7 @@
 One folder per microservice. Start each design doc from the [component template](../../templates/component-template.md).
 
 | Component | Owner | DB role |
-|---|---|---|
+| --- | --- | --- |
 | [api-gateway](api-gateway/) | Mohamed Mohsen | `pqca_gateway` |
 | [ca-engine](ca-engine/) | Mariam Hazem Gamgoum | `pqca_ca_engine` |
 | [ra-service](ra-service/) | Mariam Ramy | `pqca_ra` |

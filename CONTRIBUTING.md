@@ -5,7 +5,7 @@
 `main` always holds reviewed documentation. All changes go through pull requests.
 
 | Branch | Purpose |
-|---|---|
+| --- | --- |
 | `main` | Reviewed, published documentation. Protected — no direct pushes. |
 | `docs/<section>` | Long-lived working branch per section (e.g. `docs/architecture`). Merged to `main` via PR. |
 | `docs/<section>-<topic>` | Short-lived branch for one document or change (e.g. `docs/architecture-c4-container`). |

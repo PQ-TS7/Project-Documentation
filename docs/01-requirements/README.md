@@ -3,7 +3,7 @@
 **Lead:** Team · **Branch:** `docs/requirements`
 
 | Folder | Contents |
-|---|---|
+| --- | --- |
 | `srs/` | Software Requirements Specification versions (PDF/DOCX + change log) |
 | `use-cases/` | Use cases and user stories |
 | `traceability/` | Requirement ↔ component ↔ test traceability matrix |

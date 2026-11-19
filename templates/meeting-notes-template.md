@@ -1,7 +1,7 @@
 # Meeting — YYYY-MM-DD — Topic
 
 | Field | Value |
-|---|---|
+| --- | --- |
 | Date / time | YYYY-MM-DD HH:MM |
 | Type | Team sync / Supervisor / Q&A / Review |
 | Attendees | Names |
@@ -22,5 +22,5 @@
 ## Action items
 
 | Action | Owner | Due |
-|---|---|---|
+| --- | --- | --- |
 | Task | Name | YYYY-MM-DD |

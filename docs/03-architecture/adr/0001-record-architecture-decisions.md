@@ -1,7 +1,7 @@
 # ADR-0001: Record architecture decisions
 
 | Field | Value |
-|---|---|
+| --- | --- |
 | Status | Accepted |
 | Date | 2026-11-18 |
 | Deciders | PQ-CA team |

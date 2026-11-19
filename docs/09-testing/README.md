@@ -3,7 +3,7 @@
 **Lead:** Mariam Hazem Gamgoum · **Branch:** `docs/testing`
 
 | Folder | Contents |
-|---|---|
+| --- | --- |
 | `strategy/` | Overall test strategy and acceptance criteria |
 | `test-plans/` | Unit, integration, end-to-end plans per component |
 | `ai-evaluation/` | OV labeled set (target ≥ 90 % correct), copilot Q&A set (> 90 % accuracy, < 3 s) |

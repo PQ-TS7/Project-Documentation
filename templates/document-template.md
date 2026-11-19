@@ -1,7 +1,7 @@
 # Document title
 
 | Field | Value |
-|---|---|
+| --- | --- |
 | Status | Draft / In review / Approved / Superseded |
 | Version | v0.1 |
 | Owner | Name |
@@ -28,5 +28,5 @@ Main body.
 ## Revision history
 
 | Version | Date | Author | Change |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | v0.1 | YYYY-MM-DD | Name | Initial draft |
